@@ -24,24 +24,24 @@ Links:
 
 ## Headline time ms (median)
 
-![Headline Time ms (median)] (./histograms/headline_time_ms.svg)
+![Headline Time ms (median)](./histograms/headline_time_ms.svg)
 
 ## Headline memory consumption (MB)
 
-![Headline Time ms (median)] (./histograms/headline_mem_mb.svg)
+![Headline Time ms (median)](./histograms/headline_mem_mb.svg)
 
 ## Micro time ms (median)
 
-![Micro Time ms (median)] (./histograms/micro_time_ms.svg)
+![Micro Time ms (median)](./histograms/micro_time_ms.svg)
 
 ## Micro memory consumption (MB)
 
-![Micro Time ms (median)] (./histograms/micro_mem_mb.svg)
+![Micro Time ms (median)](./histograms/micro_mem_mb.svg)
 
 ## Other time ms (median)
 
-![Other Time ms (median)] (./histograms/other_time_ms.svg)
+![Other Time ms (median)](./histograms/other_time_ms.svg)
 
 ## Other memory consumption (MB)
 
-![Other Time ms (median)] (./histograms/other_mem_mb.svg)
+![Other Time ms (median)](./histograms/other_mem_mb.svg)
